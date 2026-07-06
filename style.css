@@ -16,8 +16,8 @@ html , body {
     height: 100%;
     width: 100%;
     display: grid;
-    grid-template-columns: 19% 22% 8% 29% 19%;
-    grid-template-rows: 26% 24% 7% 13% 22%;
+    grid-template-columns: 19% 22% 9% 29% 19%;
+    grid-template-rows: 26% 24% 11% 13% 23%;
     grid-template-areas: " card1 card2 card2 card3 card4"
                          " card1 card5 card5 card5 card4"
                          " card6 card5 card5 card5 card4"
@@ -115,7 +115,7 @@ html , body {
 
 .card5 img{
     position: absolute;
-    height: 320px;
+    height: 720px;
     bottom:0;
 
 }
